@@ -20,6 +20,7 @@
 - 💧 [Water Quality Monitoring System](https://github.com/tanzimahamed/Water-Quality-Monitoring-System-Using-Arduino) — Arduino-based real-time water quality monitoring
 - 🧠 [Deep Learning Journey](https://github.com/tanzimahamed/Deep-Learning) — Notes & hands-on implementations from my Deep Learning coursework
 - 📚 [Phitron AI/ML Portfolio](https://github.com/tanzimahamed/Phitron-AI-ML-batch-2) — Complete AI/ML learning path (Batch 2)
+- 🎓 [ICE Learning Portfolio](https://github.com/tanzimahamed/ICE-Learning-Portfolio) — Semester-wise academic coursework, notes & lab reports from my B.Sc. in ICE
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanzim-ahamed-)
