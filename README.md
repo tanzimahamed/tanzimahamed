@@ -16,11 +16,6 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
-### 📌 Featured Projects
-
--  [Food Spoilage Detection](https://github.com/tanzimahamed/Food-Spoilage-Detection-using-Arduino-AI)
--  [Deep Learning](https://github.com/tanzimahamed/Deep-Learning)
--  [Phitron AI/ML](https://github.com/tanzimahamed/Phitron-AI-ML-batch-2)
 
 
 ### 📫 Connect With Me
