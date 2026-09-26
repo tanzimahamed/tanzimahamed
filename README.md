@@ -1,10 +1,10 @@
 # Hi, I'm Tanzim Ahamed 👋
 
- ICE Student @ Daffodil International University 
- Aspiring AI/ML Engineer  
- Python & Data Science Enthusiast  
- Currently learning Machine Learning, Deep Learning & PyTorch  
- Building practical projects and improving my problem-solving skills.
+ ICE Student @ Daffodil International University <br>
+ Aspiring AI/ML Engineer <br> 
+ Python & Data Science Enthusiast  <br>
+ Currently learning Machine Learning, Deep Learning & PyTorch  <br>
+ Building practical projects and improving my problem-solving skills.<br>
 
 
 ##  Tech Stack
