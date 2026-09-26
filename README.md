@@ -29,6 +29,7 @@
 
 📧 Email: tanzim.ahamed.bd@gmail.com  
 💼 LinkedIn: [Tanzim Ahamed](https://www.linkedin.com/in/tanzim-ahamed-/)
+
 ---
 
 ⭐ *Always learning, building, and improving.* 🚀
