@@ -1,14 +1,13 @@
 # Hi, I'm Tanzim Ahamed 👋
 
-🎓 ICE Student @ Daffodil International University 
-🤖 Aspiring AI/ML Engineer  
-🐍 Python & Data Science Enthusiast  
-🧠 Currently learning Machine Learning, Deep Learning & PyTorch  
-🚀 Building practical projects and improving my problem-solving skills.
+ ICE Student @ Daffodil International University 
+ Aspiring AI/ML Engineer  
+ Python & Data Science Enthusiast  
+ Currently learning Machine Learning, Deep Learning & PyTorch  
+ Building practical projects and improving my problem-solving skills.
 
----
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -17,22 +16,19 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
-## 📌 Featured Projects
+### 📌 Featured Projects
 
-- 🥦 [Food Spoilage Detection](https://github.com/tanzimahamed/Food-Spoilage-Detection-using-Arduino-AI)
-- 🧠 [Deep Learning](https://github.com/tanzimahamed/Deep-Learning)
-- 📚 [Phitron AI/ML](https://github.com/tanzimahamed/Phitron-AI-ML-batch-2)
+-  [Food Spoilage Detection](https://github.com/tanzimahamed/Food-Spoilage-Detection-using-Arduino-AI)
+-  [Deep Learning](https://github.com/tanzimahamed/Deep-Learning)
+-  [Phitron AI/ML](https://github.com/tanzimahamed/Phitron-AI-ML-batch-2)
 
-
-
-## 📫 Connect With Me
+###  Connect With Me
 
 📧 Email: tanzim.ahamed.bd@gmail.com  
 💼 LinkedIn: [Tanzim Ahamed](https://www.linkedin.com/in/tanzim-ahamed-/)
 
----
 
-⭐ *Always learning, building, and improving.* 🚀
+⭐ *Always learning, building, and improving.* 
 
 
 
