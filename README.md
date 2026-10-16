@@ -1,4 +1,4 @@
-# Hi, I'm Tanzim Ahamed 👋
+# Hi, I'm Tanzim Ahamed 
 
 **Aspiring AI/ML Engineer | ICE Student at Daffodil International University**
 
@@ -6,15 +6,15 @@ I'm an Information and Communication Engineering student with a growing focus on
 
 ---
 
-## 🔭 What I'm Working On
+##  What I'm Working On
 
-- 🤖 Learning **Machine Learning, Deep Learning and PyTorch**
-- 🚁 Building the ML-based victim detection model for a search-and-rescue drone
-- 📚 Strengthening my fundamentals in Python, NumPy, Pandas and Scikit-learn
+-  Learning **Machine Learning, Deep Learning and PyTorch**
+-  Building the ML-based victim detection model for a search-and-rescue drone
+-  Strengthening my fundamentals in Python, NumPy, Pandas and Scikit-learn
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages & Libraries**
 
@@ -32,7 +32,7 @@ I'm an Information and Communication Engineering student with a growing focus on
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 | --- | --- | --- |
@@ -43,7 +43,7 @@ I'm an Information and Communication Engineering student with a growing focus on
 
 ---
 
-## 🎯 Currently Learning
+##  Currently Learning
 
 - Deep Learning with PyTorch
 - Computer Vision and object detection
@@ -51,7 +51,7 @@ I'm an Information and Communication Engineering student with a growing focus on
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tanzim.ahamed.bd@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanzim-ahamed-/)
